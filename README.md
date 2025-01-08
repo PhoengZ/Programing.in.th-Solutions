@@ -1,8 +1,9 @@
 # Programing.in.th-Solutions
-This is repository i have solved Programing.in.th problem. These are implement by Python
+This is repository i have solved Programing.in.th problem.  
+These are implement by Python
 ## Warning
-1.Brick problem's scroe 80
-2.3-11 (three-eleven)'s score 50
+1.Brick problem's scroe 80  
+2.3-11 (three-eleven)'s score 50  
 3.Download and install python before run file
 ## How to run
 1.Clone repository
